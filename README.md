@@ -86,9 +86,6 @@ Credits
 A special thanks go out to "wahltho", and many other helpful people on the various X-Plane forums.
 Thank you all for taking the time to answer my questions.
 
-You are completely free to improve or edit my script, or use parts of it. 
-All I ask is that if you do redistribute my script under a different name, you at least credit me as the original author.
-
 Author:
 Mike Nixon
 mikenixon427@gmail.com
